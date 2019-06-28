@@ -1,2 +1,2 @@
 # Dissertation
-All the code belongs to the dissertation
+All the codes belong to the dissertation
